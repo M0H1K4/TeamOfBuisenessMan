@@ -46,16 +46,6 @@ header {
 .cont1 {
   transform: scaleX(0.98);
 }
-/* .list1{
-color: #F07566;
-font-family: "Hind Siliguri";
-font-size: 18px;
-font-style: normal;
-font-weight: 700;
-line-height: 30px; 
-letter-spacing: 1px;
-text-transform: uppercase;
-} */
 .company {
   display: flex;
   gap: 10px;
@@ -121,4 +111,57 @@ text-transform: uppercase;
   color: white;
   border-style: none;
   border-radius: 5px;
+}
+.consulting {
+  width: 300px;
+  height: 358px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  border: 1px solid #e6edf5;
+  display: flex;
+  /* align-items: center; */
+  flex-direction: column;
+  margin: auto;
+  margin-top: 100px;
+  padding: 30px;
+}
+.shape {
+  width: 64px;
+  height: 64px;
+  flex-shrink: 0;
+}
+.consult {
+  margin-top: 70px;
+  font-size: 24px;
+}
+.title2 {
+  margin-top: 50px;
+  letter-spacing: 2px;
+  color: rgba(51, 51, 51, 0.5);
+}
+.feature {
+  display: flex;
+  gap: 10px;
+  margin-top: 150px;
+}
+.complex {
+  color: #333;
+  font-family: "Hind Siliguri";
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 48px; /* 120% */
+  letter-spacing: -1px;
+  margin-top: 20px;
+}
+.title3 {
+  width: 329px;
+  height: 136px;
+  flex-shrink: 0;
+  color: #333;
+  font-family: "Work Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px; /* 200% */
 }
