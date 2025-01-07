@@ -381,3 +381,138 @@ header {
   flex-shrink: 0;
   margin-top: 50px;
 }
+.cont7 {
+  width: 100vw;
+  height: 800px;
+  background-color: #f07566;
+  margin-top: 200px;
+}
+.rectangle2 {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background: #fbd34b;
+  margin-left: 35%;
+  margin-top: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.strategy {
+  width: 329px;
+  color: #fff;
+  font-family: "Hind Siliguri";
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 48px; /* 120% */
+  letter-spacing: -1px;
+  /* margin-top: 50px; */
+  padding: 30px;
+}
+.bitmap--5 {
+  width: 339px;
+  height: 464px;
+  flex-shrink: 0;
+  background-image: url(./Bitmap5.png);
+}
+.title9 {
+  width: 329px;
+  height: 105px;
+  flex-shrink: 0;
+  color: #fff;
+  font-family: "Work Sans";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px; /* 160% */
+  padding: 30px;
+  margin-top: -20px;
+}
+.team {
+  display: flex;
+  gap: 10px;
+  margin-top: 70px;
+}
+.strong {
+  color: #333;
+  text-align: center;
+  font-family: "Hind Siliguri";
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 48px; /* 120% */
+  letter-spacing: -1px;
+  color: #333333;
+}
+.title10 {
+  width: 329px;
+  height: 134px;
+  flex-shrink: 0;
+  color: rgba(51, 51, 51, 0.5);
+  text-align: center;
+  font-family: "Work Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+}
+.cont8 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+.cont9 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 329px;
+  height: 475px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0px 24px 48px 0px rgba(0, 17, 86, 0.08);
+  margin-left: 25px;
+}
+.rectangle3 {
+  width: 297px;
+  height: 374px;
+  flex-shrink: 0;
+  border-radius: 8px 8px 50px 8px;
+  background: pink;
+}
+.drewit {
+  color: #333;
+  font-family: "Hind Siliguri";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px;
+  margin-top: 15px;
+  margin-left: -70px;
+}
+.title11 {
+  color: rgba(51, 51, 51, 0.5);
+  font-family: "Work Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px; /* 200% */
+  margin-left: -200px;
+}
+.pins {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+.pins2 {
+  width: 114px;
+  height: 16px;
+  flex-shrink: 0;
+}
